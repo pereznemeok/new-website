@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Nixmat';
+    src: url('Nixmat.otf');
+}
+
+body {
+background-color: #004362;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: whitesmoke;
+}
+
+header {
+    
+}
+
+#menu-circular {
+    font-size: 150pt;
+    text-align: center;
+    font-family: 'Nixmat';
+}
